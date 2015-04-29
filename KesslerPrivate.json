@@ -1,0 +1,35 @@
+{
+	"author":"Kessler","colors":{
+		"background":"",
+		"chat":{
+			"admin":"",
+			"ambassador":"",
+			"bouncer":"",
+			"cohost":"EFDF03",
+			"residentdj":"",
+			"host":"EFDF03",
+			"manager":""
+		},
+		"footer":"",
+		"header":""
+	},
+	"images":{
+		"background":"http:\/\/www.wallpapersdb.org\/wallpapers\/fantasy\/large_space_1920x1200.jpg",
+		"booth":"",
+		"icons":{
+			"admin":"",
+			"ambassador":"",
+			"bouncer":"",
+			"cohost":"",
+			"residentdj":"",
+			"host":"",
+			"manager":""
+		},
+		"playback":""
+	},
+	"rules":{
+		"allowAutojoin":"true",
+		"allowAutorespond":"true",
+		"allowAutowoot":"true"
+	}
+}
